@@ -50,6 +50,10 @@ pip install mmdet==2.17.0 --upgrade -q
 echo "- Installing labelImg"
 pip install labelImg==1.8.6 --upgrade -q
 
+echo "- Installing jupyterlab"
+pip install jupyterlab --upgrade -q
+pip install ipywidgets --upgrade -q
+
 echo "- Installing mmseg"
 pip install mmsegmentation==0.20.2 --upgrade -q
 
