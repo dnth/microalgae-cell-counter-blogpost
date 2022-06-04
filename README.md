@@ -17,6 +17,6 @@ Among the things you will learn:
 
 By the end of the post, you will have an object detection model that will automatically detect microalgae cells from an image.
 
-![image](https://dicksonneoh.com/portfolio/training_dl_model_for_cell_counting/inference_hu4e27c33022e9aff192e501fa00651150_1733072_720x0_resize_box_2.png)
+![image](https://dicksonneoh.com/portfolio/training_dl_model_for_cell_counting/inference_hu4e27c33022e9aff192e501fa00651150_1733072_720x0_resize_box_3.png)
 
 
