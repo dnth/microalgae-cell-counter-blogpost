@@ -22,6 +22,6 @@ By the end of the post, you will have an object detection model that will automa
 
 
 # Support Me
-If you like what you see? Support me in keeping the lights on to produce more post like this.
+If you like what you see, support me in keeping the lights on to produce more post like this.
 
 <a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
