@@ -20,3 +20,8 @@ By the end of the post, you will have an object detection model that will automa
 ![image](https://dicksonneoh.com/portfolio/training_dl_model_for_cell_counting/inference_hu4e27c33022e9aff192e501fa00651150_1733072_720x0_resize_box_3.png)
 
 
+
+# Support Me
+If you like what you see? Support me in keeping the lights on to produce more post like this.
+
+<a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
